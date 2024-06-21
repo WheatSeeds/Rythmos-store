@@ -1,8 +1,8 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
-import HomePage from './assets/Home/HomePage.jsx'
-import StorePage from './assets/Store/StorePage.jsx'
+import HomePage from './assets/Components/Home/HomePage.jsx'
+import StorePage from './assets/Components/Store/StorePage.jsx'
 
 const router = createBrowserRouter([
   {
