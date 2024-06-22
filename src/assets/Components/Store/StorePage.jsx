@@ -1,9 +1,13 @@
 import Header from '../Header/Header.jsx'
+import Footer from '../Footer/Footer.jsx'
+import '../../styles/index.css'
 function StorePage(){
     return(
         <>
             <Header />
-            <span>StorePage test</span>
+            <main>
+            </main>
+            <Footer />
         </>
     );
 };

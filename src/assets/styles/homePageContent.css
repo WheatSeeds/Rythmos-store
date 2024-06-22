@@ -1,0 +1,27 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(../../../public/bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+#content{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    color: white;
+    background-color: black;
+    padding: 0 20px;
+    padding-bottom: 20px;
+    margin-top: 15vh;
+}
+
+#content > button{
+    margin-top: 20px;
+    width: 140px;
+    height: 40px;
+}
