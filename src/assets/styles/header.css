@@ -1,9 +1,10 @@
 header{
     background-color: black;
     height: 15vh;
-    width: 100vw;
+    width: 100%;
     position: fixed;
     top: 0;
+    z-index: 9999;
 }
 nav{
     display: flex;
