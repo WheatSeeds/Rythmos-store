@@ -1,6 +1,6 @@
 header{
     background-color: black;
-    height: 15vh;
+    height: 12vh;
     width: 100%;
     position: fixed;
     top: 0;
@@ -10,7 +10,7 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 15vh;
+    height: 12vh;
 }
 ul{
     color: white;
@@ -23,11 +23,6 @@ li > a{
     text-decoration: none;
     color: white;
 }
-li > a{
-}
-
-
-
 
 #logo{
     text-decoration: green wavy underline;
