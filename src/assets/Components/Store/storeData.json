@@ -1,0 +1,405 @@
+{
+    "Guitars": {
+        "Electric-Guitars": [
+            {
+                "name": "Ibanez RG Iron Label Electric Guitar Black Flat",
+                "description": "The Ibanez RG Iron Label RGRTB621 electric guitar was originally designed for metal and nothing but metal in mind. Purposefully spartan and blacked-out, it's possibly the heaviest-hitting guitar from Ibanez ever. Loaded with DiMarzio Fusion Edge humbuckers, you'll experience powerful, distinctive tones with crisp highs and a tight, compressed bottom end—without a muddy midrange. The dyna-MIX 10 wiring system offers 10 sonic variations. Activate coil-splitting with the  Alter witch, or power Tap mode for realistic single-coil sounds. ",
+                "price": "$1,199.99",
+                "photo": "../../Img/ProductImg/1.jpg"
+            },
+            {
+                "name": "Ibanez GRGM21 Mikro Electric Guitar Black Night",
+                "description": "The Ibanez Mikro GRGM21 Electric Guitar can shred with the big boys. Though smaller than standard-scale guitars, it's no toy. The Mikro is made to the same high standards as all Ibanez guitars and features the very same Powersound pickups that go into all GIO series electric guitars. Its smaller size and shorter scale make the Mikro perfect for young rockers, and it's also an ideal grown-up guitar for tour-bus songwriting or practice.",
+                "price": "$169.99",
+                "photo": "../../Img/ProductImg/2.jpg"
+            },
+            {
+                "name": "Ibanez RGR652AHBF RG Prestige Electric Guitar Weathered Black",
+                "description": "As the crown jewel of Ibanez, the Prestige line represents the passion and pride of Japanese luthiery. These guitars, produced exclusively in Japan, have earned worldwide acclaim and respect throughout the industry for their craftsmanship, quality, and innovation. Combine this with the classic Ibanez RG design and you have an instrument that truly represents a cornerstone of the Ibanez legacy.",
+                "price": "$1,549.99",
+                "photo": "../../Img/ProductImg/3.webp"
+            },
+            {
+                "name": "Ibanez GRGR131EX GRG Series 6-String Electric Guitar Flat Black",
+                "description": "The Ibanez GRGR131EX GRG Series electric guitar is a statement-making instrument forged for speed and strength. This poplar-bodied guitar comes equipped with dual Infinity R humbuckers that yield a variety of useful tones with excellent dynamics—even under high-gain settings. Experience maximum tuning stability and enhanced sustain thanks to the GRGR131EX's hardtail F106 bridge. The fast-action maple neck and purpleheart fretboard provide the effortless playability that Ibanez is known for. With aggressive black hardware and sharktooth position markers, the GRGR131EX has major stage presence. The GRGR131EX, a value-packed shred machine for players seeking Ibanez performance on a budget.",
+                "price": "$249.99",
+                "photo": "../../Img/ProductImg/4.webp"
+            },
+            {
+                "name": "Ibanez RGDR4327 RGD Prestige 7-String Electric Guitar Flat Natural",
+                "description": "The Ibanez RGDR4327 RGD Prestige 7-String Electric Guitar’s beveled body, contoured horn cuts, extra long 26.5” scale, and ability to accurately intonate heavier string gauges, make it the perfect beast for down-tuned metal.",
+                "price": "$2,599.99",
+                "photo": "../../Img/ProductImg/5.webp"
+            },
+            {
+                "name": "Ibanez Xiphos Iron Label 6str Electric Guitar Black Flat",
+                "description": "The Ibanez Xiphos Iron Label electric guitar was developed with nothing but the heaviest metal in mind. These are the hardest hitting axes ever built by Ibanez with features designed to contribute to the bone rattling, earth shattering tones these guitars deliver. The Xiphos electric is constructed with a 5-piece maple/walnut neck topped with an ebony fretboard, an okoume body for bright sound and an Edge-Zero II Tremolo for fluid whammy attacks. Equipped with DiMarzio D-Activator pickups, this metal-centric shred machine provides a powerful, clean and open sound with excellent harmonic overtones and a very tight low-end response. A gig bag is also included for portable protection between gigs.",
+                "price": "$1,299.99",
+                "photo": "../../Img/ProductImg/6.webp"
+            },
+            {
+                "name": "Fender American Vintage II 1951 Telecaster Electric Guitar Butterscotch Blonde",
+                "description": "The Fender American Vintage II 1951 Telecaster pays tribute to the iconic model that started it all. Available at Guitar Center, this premium electric guitar is painstakingly crafted to capture the look, sound and feel of the original 1951 Telecaster, Fender's first commercially successful electric guitar. Built with a solid ash body and maple neck, the '51 Telecaster produces the twangy, articulated tone that defined the Tele® legend. It features a comfortable 1951 U shaped neck profile, 7.25' fretboard radius and 21 vintage tall frets that facilitate chords and lead lines with equal ease. Powering this ax are a pair of Pure Vintage '51 Telecaster single-coil pickups, which provide the crisp, punchy tone that helped revolutionize popular music. From its vintage style hardware to its Nitrocellulose Lacquer finish, the American Vintage II 1951 Telecaster is a spot-on recreation of this seminal Fender classic.",
+                "price": "$2,449.99",
+                "photo": "../../Img/ProductImg/7.webp"
+            },
+            {
+                "name": "Fender Suona Stratocaster Thinline Electric Guitar Violin Burst",
+                "description": "Designed to inspire and captivate, the Fender Suona Stratocaster Thinline electric sings with a refined elegance that echoes the masterful work of a legendary artisan. A stunning adaptation of traditional Fender design, its warm, resonant tones and unmatched beauty are a testament to the dedication and artistry poured into every detail. Crafted with a semi-hollow ash body and a bound Italian alpine spruce top, this instrument boasts exceptional clarity, lively resonance and a warmth unique to Thinline models. The roasted flame maple modern “C” neck and 7.25”-9.5” compound-radius ebony fingerboard offer luxurious comfort and limitless playability, while the vintage-style synchronized tremolo delivers the purest Fender tone and performance. The custom-designed Suona bridge pickup, paired with two Custom Shop '69s, produce a dynamic and expressive tonal palette.",
+                "price": "$2,999.99",
+                "photo": "../../Img/ProductImg/8.webp"
+            },
+            {
+                "name": "Fender Player Stratocaster Maple Fingerboard Limited-Edition Electric Guitar Black",
+                "description": "The limited-edition Fender Player Stratocaster Maple Fretboard electric guitar is a sleek instrument with all the classic features of the iconic Stratocaster at your fingertips while adding a modern edge, including a modern neck profile, medium-jumbo frets and a redesigned vibrato bridge.",
+                "price": "$699.99",
+                "photo": "../../Img/ProductImg/9.webp"
+            },
+            {
+                "name": "Fender Jim Root Artist Series Telecaster Electric Guitar White",
+                "description": "The Fender Jim Root Artist Series Telecaster electric guitar is a modern rock icon. Designed in collaboration with Slipknot and Stone Sour guitarist Jim Root, this signature model combines the classic Tele shape with active EMG pickups for a versatile tone suited to any playing style. The mahogany body and maple neck provide a balanced sound with articulated mids, warm lows and shimmering highs. This custom Telecaster is built to Jim Root's exacting standards and ready to take your playing to the next level.",
+                "price": "$1,549.99",
+                "photo": "../../Img/ProductImg/10.webp"
+            },
+            {
+                "name": "Gibson SG Standard Electric Guitar Ebony",
+                "description": "The Gibson SG Standard electric guitar, with its infamous devil horns, debuted in 1961 as the first double-cut offering from the renowned purveyors of the Les Paul. Then headed by Ted McCarty, Gibson responded to the growing popularity of double-cut instruments by introducing the Solid Guitar (SG). A truly versatile classic, the present-day SG Standard embodies the looks and features associated with highly sought-after late ’60s models, including a rounded neck profile, rosewood fingerboard and solid mahogany body. Gibson “Modern Classic” 490 humbuckers lace the SG with iconic P.A.F. thickness, singing sustain and the power to drive. The Gibson SG Standard honors a legacy of profound innovation—a future-proof double cut recalling the guitar’s everlasting prime.",
+                "price": "$1,799.00",
+                "photo": "../../Img/ProductImg/11.webp"
+            },
+            {
+                "name": "Gibson SG Standard '61 Electric Guitar Vintage Cherry",
+                "description": "The aptly named Gibson SG Standard '61, with its infamous devil horns, debuted in the early '60s as the first double-cut electric guitar from the renowned purveyors of the Les Paul. Then headed by Ted McCarty, Gibson responded to the growing popularity of double-cut instruments by introducing the Solid Guitar (SG). A truly versatile classic, the reissued SG Standard '61 embodies the looks and features associated with the guitar that temporarily halted LP production, including a SlimTaper neck, rosewood fingerboard and solid mahogany body. Gibson Burstbucker 61 pickups lace the SG with vintage voicing, power and top-end clarity. The Gibson SG Standard ’61 honors a legacy of profound innovation—a future-proof double cut recalling the guitar’s everlasting prime.",
+                "price": "$1,999.00",
+                "photo": "../../Img/ProductImg/11.webp"
+            },
+            {
+                "name": "Gibson '70s Flying V Electric Guitar Classic White",
+                "description": "Thee Gibson '70s Flying V Electric Guitar Classic White is a reissue of the legendary electric guitar that helped define the sound of rock. With its striking yet comfortable asymmetrical body shape, bound rosewood fretboard and uncovered '70s Tribute Burstbucker pickups, this Gibson Flying V provides the look and tone that shaped an era. Now with a slim taper neck for effortless soloing and available in a crisp Classic White finish with matching headstock, the Gibson '70s Flying V offers a perfect blend of '70s style and contemporary playability.",
+                "price": "$2,499.00",
+                "photo": "../../Img/ProductImg/12.jpg"
+            },
+            {
+                "name": "Gibson Lzzy Hale Signature Explorerbird Electric Guitar Cardinal Red",
+                "description": "The limited-edition Gibson Lzzy Hale Signature Explorerbird electric guitar unleashes massive tone and blistering playability. Constructed from premium mahogany and loaded with dual Gibson 70s Tribute humbuckers, this ax delivers a thick wall of rocking humbucking tone every time you plug in. The Explorerbird combines the classic Explorer body shape with a Firebird headstock for enhanced tuning stability and a one-of-a-kind look. Once you get your hands on the Explorerbird's comfortable '60s-style bound rosewood fretboard, you won't want to put it down. Gibson is proud to offer this limited-edition shred machine before it flies off the shelves at Guitar Center.",
+                "price": "$2,799.00",
+                "photo": "../../Img/ProductImg/13.webp"
+            }
+        ],
+        "Acoustic-Guitars":[
+            {
+                "name": "Martin SC-10E Road Series Acoustic-Electric Guitar Natural",
+                "description": "Guitar Center is thrilled to introduce the Martin SC-10E Road Series Acoustic-Electric Guitar, an instrument that redefines what an acoustic-electric can achieve. The SC-10E's patented Sure Align® neck system provides complete, unrestricted access to all frets so you can comfortably play any note. Its low-profile velocity neck barrel is ergonomically designed to support your hand as you traverse the neck, delivering the comfort and playability of an electric guitar. Starting at an affordable price, the SC-10E features a satin-finished Sitka spruce top and stunning koa fine veneer back and sides, as well as Fishman MX-T electronics to deliver superior amplified tone.",
+                "price": "$1,299.00",
+                "photo": "../../Img/ProductImg/14.webp"
+            },
+            {
+                "name": "Takamine G Series GD30CE-12 Dreadnought 12-String Acoustic-Electric Guitar Black",
+                "description": "The Takamine G Series GD30CE-12 Dreadnought 12-String acoustic-electric guitar provides you with a powerful tone and playing experience. The GD30CE-12 features a solid spruce top and mahogany back and sides, yielding a lush, resonant sound ideal for singer-songwriters and recording artists.",
+                "price": "$669.99",
+                "photo": "../../Img/ProductImg/15.jpg"
+            },
+            {
+                "name": "Taylor 814ce Builder's Edition 50th Anniversary Limited-Edition Grand Auditorium Acoustic-Electric Guitar Kona Edgeburst",
+                "description": "The Taylor 814ce Builder's Edition 50th Anniversary limited-edition Grand Auditorium acoustic guitar combines two phenomenal tonewoods—Indian rosewood and sinker redwood—to deliver a kaleidoscopic range of tones. This special 50th anniversary model pairs the warm, rich lows of Indian rosewood with the cedar-like warmth and excellent projection of sinker redwood. Together, they produce remarkable tonal complexity that's enhanced by Taylor's advanced V-Class bracing. Visually striking touches like the abalone rosette, gold tuners and Kona burst edge over rosewood celebrate Taylor's five decades of guitar innovation.",
+                "price": "$4,999.00",
+                "photo": "../../Img/ProductImg/16.webp"
+            },
+            {
+                "name": "Martin Special X Style 000 Cutaway Acoustic-Electric Guitar Black",
+                "description": "The Martin Special X Style 000 cutaway acoustic-electric guitar is a performance-focused acoustic-electric guitar combining Martin's time-honored craftsmanship with modern electronics for an instrument ideal for live playing or recording. Its stylish black satin finish and cutaway body give it a daring look, while its solid Jett Black HPL top, back and sides provide full, resonant tone. Easy playability comes courtesy of its slim neck and low action. Plug in the Fishman MX electronics to amplify your sound with studio-quality detail. Whether you're gigging at a local venue or laying down tracks in a professional studio, the Special X Style 000 will make you the star of the show.",
+                "price": "$539.99",
+                "photo": "../../Img/ProductImg/17.jpg"
+            },
+            {
+                "name": "Fender FA-135CE All-Mahogany Concert Acoustic-Electric Guitar Mahogany",
+                "description": "The FA-135CE acoustic-electric guitar from Fender is designed for players looking to amplify their sound. Its mahogany top, and mahogany back and sides provide a balanced, resonant tone that rings out whether unplugged or amplified. The built-in Fishman pickup and preamp system offer simple controls to shape your tone, from bright and crisp to full and rounded.",
+                "price": "$249.99",
+                "photo": "../../Img/ProductImg/18.webp"
+            },
+            {
+                "name": "Epiphone Inspired by Gibson Custom J-180 LS Acoustic-Electric Guitar Pink",
+                "description": "The Epiphone Inspired by Gibson Custom J-180 LS acoustic-electric guitar provides an authentic playing experience with premium features and materials, including a solid spruce top, and mahogany back and sides. With its iconic “star” mother-of-pearl inlays, the J-180 LS pays homage to the legendary Gibson J-180 that musicians spanning eras and genres have called upon, including The Everly Brothers, Cat Stevens, Billie Joe Armstrong and Taylor Swift. The Epiphone J-180 LS acoustic-electric, in collaboration with the Gibson Custom Shop, brings classic looks, feel and sound to players at an affordable price.",
+                "price": "$1,299.00",
+                "photo": "../../Img/ProductImg/19.webp"
+            },
+            {
+                "name": "Gibson Orianthi SJ-200 Acoustic-Electric Guitar Cherry",
+                "description": "Fiery Australian-born guitarist Orianthi Panagaris has been knocking people out with her technical guitar skills for over a decade while collaborating with legendary artists like Michael Jackson, Alice Cooper, Carrie Underwood and Richie Sambora. Orianthi's signature Gibson acoustic-electric guitar is a knockout too, featuring an SJ-200 body with a AAA Sitka spruce top and flamed maple back paired with an ES-345 neck. The non-cutaway body is equipped with an L.R. Baggs Orianthi Pickup System that was custom-voiced for Orianthi and features adjustable saturation and soundhole-mounted controls. Additional touches include an ebony fingerboard with lotus neck inlays, a mother-of-pearl Orianthi 'O' symbol on the headstock and gold Grover Keystone tuners. A Gibson hardshell case is also included for portable protection and convenient storage.",
+                "price": "$6,499.00",
+                "photo": "../../Img/ProductImg/20.webp"
+            },
+            {
+                "name": "Fender American Acoustasonic Jazzmaster Acoustic-Electric Guitar Arctic White",
+                "description": "The Fender American Acoustasonic Jazzmaster acoustic-electric guitar represents the cutting edge of purposeful innovation. Powered by Fender and Fishman's groundbreaking Acoustic Engine, this versatile instrument opens the door to discovering a universe of acoustic and electric tones. The offset spruce and mahogany SIRS body resonates like an acoustic while avoiding feedback and the slim, fast-playing neck provides effortless electric-style playability across the 22-fret ebony fingerboard. The American Acoustasonic Jazzmaster is for the guitarist seeking inspiration through uncharted sonic territory.",
+                "price": "$1,999.99",
+                "photo": "../../Img/ProductImg/21.webp"
+            },
+            {
+                "name": "Fender American Acoustasonic Stratocaster Acoustic-Electric Guitar Trans Sonic Blue",
+                "description": "The Fender American Acoustasonic Stratocaster fuses Fender's comfortable solid spruce and mahogany SIRS Strat body with a cutting-edge pickup system for a kaleidoscope of tones. A real Fender N4 Noiseless single-coil is paired with a Fishman Matrix undersaddle pickup and percussive top sensor to shift between six distinct acoustic voices and sizzling electric leads with the flick of a switch. A rechargeable 20-hour battery supports continuous play so you can craft tone poems for hours on end. Whether you're conjuring country ballads or conjuring rock anthems, the American Acoustasonic Stratocaster is purpose-built to inspire.",
+                "price": "$1,999.99",
+                "photo": "../../Img/ProductImg/22.webp"
+            },
+            {
+                "name": "Taylor 214ce Plus Grand Auditorium Acoustic-Electric Guitar Natural",
+                "description": "The Taylor Guitars 214ce Plus Grand Auditorium acoustic-electric guitar features the brand's signature body shape, solid Sitka spruce top and layered Indian rosewood back and sides. The 214ce Plus blends clear, balanced tone with a comfortable feel that appeals to players of all levels. At the heart of this model is Taylor's groundbreaking Expression System 2, which employs a piezo pickup to capture the guitar's lively acoustic properties and translates into a dynamic plugged-in sound. The 214ce Plus also sports premium appointments like black plastic binding, a full-body gloss finish and Venetian cutaway for upper-fret access.",
+                "price": "$1,399.00",
+                "photo": "../../Img/ProductImg/23.webp"
+            }
+        ],
+        "Bass-Guitars":[
+            {
+                "name": "Jackson Adam Blackstone 'Gladys' Pro Series Signature Concert Bass Guitar Black Stone",
+                "description": "The Jackson Adam Blackstone 'Gladys' Pro Series signature concert bass brings the expertise of Grammy-winning musical director Adam Blackstone to your fingertips. Developed with Jackson, this five-string electric bass has a custom design optimized for the needs of today's performing and recording bassists. The resonant poplar body and graphite-reinforced bolt-on maple neck generate formidable sustain. The custom neck profile and compound 9'–16' radius maple fingerboard offer incredible comfort and playability.",
+                "price": "$899.99",
+                "photo": "../../Img/ProductImg/24.webp"
+            },
+            {
+                "name": "Ernie Ball Music Man StingRay Special H Electric Bass Guitar Jackpot",
+                "description": "The Ernie Ball Music Man StingRay Special H electric bass gets a sonic overhaul with a redesigned neodymium pickup and an upgraded 18V preamp, while also receiving a facelift in sculpture and construction for greater comfort. Originally debuting in 1976, the legendary bass is one of Leo Fender's own designs, and it still sports the iconic 3+1 tuning machine layout and signature oval pickguard. The StingRay Special H features a roasted maple neck and your choice of maple, rosewood or ebony fretboard (based on the body finish you choose), meeting select hardwood bodies at a contoured 5-bolt joint for robust, yet sleek, construction. With an expanded tonal palette and ergonomic updates, the EBMM StingRay Special H brings enhanced performance to the stage and studio.",
+                "price": "$2,699.00",
+                "photo": "../../Img/ProductImg/25.webp"
+            },
+            {
+                "name": "Gibson Rex Brown Thunderbird Electric Bass Ebony",
+                "description": "Gibson is thrilled to introduce the Rex Brown Thunderbird Electric Bass. The signature instrument of Pantera's legendary bassist, Rex Brown, is a thunderous bass built for dishing out the hardest-hitting low end. Its mahogany body and neck provide a muscular tone that cuts through the mix, while a pair of Rexbucker T-Bird pickups deliver bone-rattling output. Active electronics give you complete control over your sound with the twist of a knob.",
+                "price": "$2,799.00",
+                "photo": "../../Img/ProductImg/26.webp"
+            },
+            {
+                "name": "Gibson Non-Reverse Thunderbird Bass Sparkling Burgundy",
+                "description": "Ever since its introduction in 1965, the Non-Reverse Thunderbird Bass from Gibson has been a favorite among bassists who refuse to compromise. With its distinctive styling and massive, thunderous tone, the Non-Reverse Thunderbird stands out both on stage and in the studio. This Gibson USA Thunderbird Bass makes this relatively rare 'bird available to the masses, complete with a non-reverse mahogany body and neck and rosewood fingerboard. Each of the two Thunderbird pickups has its own Volume control, allowing for separate use or to blend them however you like, while a Master Tone control rounds out the simple but effective control layout. Additional features include a 3-point adjustable bridge and Hipshot Ultralite tuners for optimal tuning stability.",
+                "price": "$2,399.00",
+                "photo": "../../Img/ProductImg/27.webp"
+            },
+            {
+                "name": "Ibanez Premium SR1350B 4-String Electric Bass Dual Mocha Burst Flat",
+                "description": "The Premium SR1350B bass from Ibanez endeavors to answer the needs of a variety of players, at a variety of budgets with a fast neck, lightweight body and perfectly matched electronics. An Atlas 5-piece panga panga/Purpleheart neck provides a well-balanced note attack and tone with rich sustain while internal reinforcement rods increase stability. A panga panga fretboard produces tight lows and mids along with a sharp attack on the high end, and features medium-sized frets to enhance accuracy. Nordstrand ”Big Single” pickups cram a meaty single-coil into a soapbar-style pickup, producing a full-bodied, powerful, aggressive tonal texture, while still retaining the clarity that's characteristic of single-coil pickups. Featuring an MR5S bridge with adjustable saddles, the SR1350B also includes 3-band EQ and Gotoh machine heads, plus a protective gig bag.",
+                "price": "$1,399.99",
+                "photo": "../../Img/ProductImg/28.webp"
+            },
+            {
+                "name": "Yamaha BB235 5-String Electric Bass Vintage White Black Pearl Pickguard",
+                "description": "The latest in Yamaha's storied BB series of bass guitars delivers the superb sound and build quality that this series is known for in a smaller body with even better playability. Featuring a Alder/Maple/Alder construction for quicker transmission of sound from the strings to the body and neck, a firmer 6-bolt miter neck joint for improved stability, and custom-wound pickups that achieve higher output gain while retaining the classic BB voicing, the new lineup of BB basses are a testament to our commitment to musical excellence.",
+                "price": "$379.99",
+                "photo": "../../Img/ProductImg/29.webp"
+            },
+            {
+                "name": "Schecter Guitar Research SLS Elite-4 Evil Twin Electric Bass Satin Black",
+                "description": "The sinister sibling of the SLS Elite-4 Bass, the SLS Evil Twin-4 delivers the same performance details with a darker visual impact. A carbon fiber-reinforced 7-ply Maple/Walnut/Padauk ultra-thin Thru-Neck meets a premium swamp-ash body, and is then treated with an ultra-access heel carve for comfortable playing in all positions of the 34' scale neck and unencumbered access to all 24 X-Jumbo stainless steel frets.",
+                "price": "$1,399.00",
+                "photo": "../../Img/ProductImg/30.jpg"
+            },
+            {
+                "name": "Fender Special Edition Deluxe PJ Bass Sea Foam Pearl",
+                "description": "We've teamed up with Fender to bring you another great-sounding, unique one-off bass loaded with premium features. The exclusive Deluxe PJ Bass has a Precision Bass body with the neck of a '70s Jazz Bass. It features the appointments you've come to love about most Fender instruments like an alder body, urethane finish, maple fingerboard and a Fender high mass bass bridge. Perhaps the most interesting feature aside from the mash-up of P Bass body and J Bass neck is the combination of Precision and Jazz Bass pickups. With this combo you get the best of both worlds. The growl of the passive J Bass bridge pickup blends perfectly with the passive P Bass split single coil neck pickup with the help of the volume and tone controls.",
+                "price": "$1,049.99",
+                "photo": "../../Img/ProductImg/31.webp"
+            },
+            {
+                "name": "Sterling by Music Man StingRay Classic Ray24 Maple Fingerboard Electric Bass Butterscotch Black Pickguard",
+                "description": "The Classic, Active, “SLO Special” Styled StingRay Bass. This StingRay Classic pays tribute to the “SLO Special“ Music Man StingRay bass. With its comfortably narrower 38mm nut and 9V powered Active 2-band preamp, this StingRay Classic brings an iconic look, sound and feel in all finishes.",
+                "price": "$549.99",
+                "photo": "../../Img/ProductImg/32.webp"
+            }
+        ]
+    },
+    "Synthesizers": [
+        {
+            "name": "Yamaha MODX8+ 88-Key Synthesizer",
+            "description": "The biggest of the Yamaha MODX+ series with its 88 keys, the MODX8+ synthesizer struts a staggering amount of power and sonic versatility. Ideal for music production and sound design alike, its eight-operator, fully programmable FM-X engine delivers an array of sounds as vast as your imagination. The Yamaha MODX8+ features a semi-weighted, synth-action keyboard that is purpose-designed to stimulate creativity and emotive performance. Much of its muscle comes from the same technology that powers the top-of-the-line Yamaha MONTAGE synth line, blending the ingenious AMW2 (Advanced Wave Memory 2) engine with the sublime synthesis of FM-X (Frequency Modulation) for a limitless cosmos of creative possibilities—with double the polyphony of the original MODX8. Available at Guitar Center, this cutting-edge 5-octave MODX8+ synth keyboard is ready-made to inspire awe and make your ideas a reality.",
+            "price": "$1,999.99",
+            "photo": "../../Img/ProductImg/33.webp"
+        },
+        {
+            "name": "Roland JUNO-DS88 Synthesizer",
+            "description": "The Roland JUNO-DS88 88-key synthesizer delivers all of the benefits of its predecessor, along with realistic hammer-action keys, improved pianos, additional organs, waveform expansion capability, Phrase Pads, new vocal effects and more. This innovative and intuitive synthesizer puts you in creative command, making it easy to produce exceptional music everywhere you play.",
+            "price": "$999.99",
+            "photo": "../../Img/ProductImg/34.webp"
+        },
+        {
+            "name": "Sequential Prophet-10 10-Voice Polyphonic Analog Synthesizer",
+            "description": "When Dave Smith first created the iconic Prophet-5 synth, he also produced a ten-voice version with the Prophet-10. As Sequential began working on the rerelease of the Prophet-5, they decided it only felt right to recreate this original, too. With only a few in existence today, the Prophet-10 recreation of the ultrarare 1978 synthesizer is a ten-voice version of the Prophet-5. It boasts the same authentic voice and collector-worthy design as the Prophet-5, but with the power of 10.",
+            "price": "$4,399.99",
+            "photo": "../../Img/ProductImg/35.webp"
+        },
+        {
+            "name": "Behringer Poly D Analog Polyphonic Synthesizer",
+            "description": "The Behringer Poly D polyphonic analog synthesizer lets you freely embrace the past or shape the future with its pure analog signal path. Based on the legendary 1970's analog synth, the Poly D provides stunning vintage tones thanks to authentic VCO, VCF, VCA and ladder filter circuits. With the Poly D, you can switch between monophonic, polyphonic and unison modes to tailor your sound. Use the monophonic setting for expressive leads and basses. Turn to the polyphonic mode to layer lush harmonies and pads. Thicken up any sound with Unison mode by stacking voices on top of each other.",
+            "price": "$599.00",
+            "photo": "../../Img/ProductImg/36.webp"
+        },
+        {
+            "name": "Moog Subsequent 37 Analog Synthesizer",
+            "description": "The Subsequent 37 is a (2-note) paraphonic analog synthesizer that builds on the award-winning design of the Sub 37 Tribute Edition. Its control panel has 40 knobs and 74 switches, placing a vast array of analog sound-design tools and onboard sequencing options immediately at your command. The Subsequent 37 improves upon its source through the implementation of user-requested enhancements. Each enhancement maintains the magic and character of its predecessor while also providing access to new dimensions of sound and improved playability.",
+            "price": "$1,899.00",
+            "photo": "../../Img/ProductImg/37.webp"
+        },
+        {
+            "name": "Yamaha MX88 Music Synthesizer Black",
+            "description": "The Yamaha MX88 music synthesizer offers musicians, producers and performers an all-in-one solution for creative exploration. Boasting Yamaha's acclaimed MOTIF Sound Engine and a weighted 88-key keyboard, the MX88 provides an authentic playing experience and access to over 1,000 inspiring sounds. Connect via USB to your favorite DAW on Mac, Windows or iOS and unlock software including Cubase AI—included with purchase—to start creating right out of the box.",
+            "price": "$999.99",
+            "photo": "../../Img/ProductImg/38.webp"
+        },
+        {
+            "name": "Roland JUNO-X Synthesizer",
+            "description": "JUNO-X elevates Roland’s legendary synthesizer series into a new era, fusing authentic vintage spirit with modern creative power. Compose and perform with the next-generation JUNO-X engine, historic JUNO-60 and JUNO-106 models, sounds from the XV-5080 and RD pianos, Model Expansions and more. And bring them all together with a familiar hands-on interface. Backed by the immense range of Roland’s ZEN-Core Synthesis System, JUNO-X goes wherever your music lives—past, present or future. This JUNO-X Model presents a natural evolution of the historic JUNO voice. Create even fatter sounds with an enhanced version of Roland’s famous Super Saw waveform and go deeper with velocity sensitivity, pitch envelope control and more. There’s also a new Chorus III mode to complement the two beloved chorus modes from the original JUNOs.",
+            "price": "$1,999.99",
+            "photo": "../../Img/ProductImg/39.webp"
+        },
+        {
+            "name": "Roland JUNO-DS61 Synthesizer",
+            "description": "The Roland JUNO-DS61 synthesizer puts an inspiring array of tools at your fingertips. With its 61 full-size keys, the JUNO-DS61 offers versatile playability for musicians, educators and producers. It comes packed with professionally designed sounds spanning acoustic pianos, vintage keys, lush pads and beyond. You can expand the JUNO-DS61's sound palette by downloading over 1,000 free sounds or load your own WAV files via the wave expansion slot.",
+            "price": "$799.99",
+            "photo": "../../Img/ProductImg/40.webp"
+        },
+        {
+            "name": "Roland JUNO-DS76 Synthesizer",
+            "description": "Life moves fast as an upcoming musician or ambitious new band. When you’re racing between rehearsals, sessions, and shows, you don’t have time to deal with a bulky, complex synth that’s difficult to use. The Roland JUNO-DS76 is the portable modern synth that can keep up with your busy band life. Lightweight, compact, and powerful, this 76-note instrument is always ready to go, with easy operation and instant access to pro onboard sounds that let you create or perform music anywhere, from studio to stage. And with its extended-range keyboard, the JUNO-DS76 is ideally suited for playing advanced arrangements with multiple sounds split across the keys.",
+            "price": "$999.99",
+            "photo": "../../Img/ProductImg/41.webp"
+        },
+        {
+            "name": "Roland JUPITER-X Synthesizer",
+            "description": "The JUPITER-X synthesizer from Roland brings the iconic JUPITER line into the future. The JUPITER-X combines Roland's premium build quality and design with cutting-edge sound technologies to produce a powerful, versatile instrument for composers and performers alike. The 61-key JUPITER-X is the pinnacle of Roland engineering, featuring an all-metal body, aftertouch-enabled keyboard and intuitive interface for shaping sounds with ease in both studio and live settings.",
+            "price": "$2,899.99",
+            "photo": "../../Img/ProductImg/42.webp"
+        },
+        {
+            "name": "Arturia PolyBrute 6-Voice Polyphonic Analog Synthesizer",
+            "description": "Arturia's PolyBrute is an analog synthesizer that gives musicians an unparalleled level of expressive control over their sound. At its heart is a morphing sound engine that lets you transform tones in new ways, from an ethereal pad into a plucked string or a deep bass into a summery breeze. Performance controls like the 3-dimensional Morphée pad, wooden ribbon controller and motion recorder put your creativity in the driver's seat. The interface is accessible too, with no shift buttons or menus to navigate—you can shape the PolyBrute's sounds directly from the unit itself. It's built to last as well, with high-quality components such as black walnut end panels and a sturdy keybed. While the PolyBrute can produce classic analog tones from the '70s and '80s, its morphing capabilities open up a world of new, innovative sounds you've never heard before. Now available at Guitar Center.",
+            "price": "$2,699.00",
+            "photo": "../../Img/ProductImg/43.webp"
+        },
+        {
+            "name": "Sequential Take 5 Five-Voice Poly Synthesizer",
+            "description": "A full-featured subtractive synthesizer, the Take 5 sports two VCOs and a sub oscillator per voice, a classic 4-pole, resonant analog filter from the Prophet-5 Rev 4 design, 44 full-size keys, and a premium Fatar keybed. Its clever key-split feature gives players access to a wider playable range than many other compact synths by enabling players to divide the 3.5 octave keyboard into two separate performance zones. Dual Digital effects and a dedicated overdrive, continuously variable wave shaping, and front-panel access to analog FM ensure the Take 5 can cover a wide range of sonic territory, from vintage to modern.",
+            "price": "$1,499.99",
+            "photo": "../../Img/ProductImg/44.webp"
+        },
+        {
+            "name": "Sequential Prophet Rev2 Synthesizer 16 Voice",
+            "description": "The Sequential Prophet Rev2 is an innovative analog synthesizer that takes polyphony and sonic capabilities to new heights. Available in 8-voice and 16-voice versions, the Rev2 builds on the legacy of the legendary Prophet '08 with twice the voice count, an enhanced modulation matrix and waveshape modulation on all waveforms. Whether performing live or crafting sounds in the studio, the Rev2 provides musicians and producers alike with an intuitive yet immensely capable creative tool.",
+            "price": "$2,999.99",
+            "photo": "../../Img/ProductImg/45.webp"
+        },
+        {
+            "name": "Oberheim OB-6 6-Voice Analog Synthesizer",
+            "description": "The OB-6 is an analog synthesizer that offers seemingly endless possibilities for creative sound design. Designed by Dave Smith and Tom Oberheim, two pioneers of analog synthesis, the OB-6 provides six discrete analog voices, each with two oscillators and a variety of waveshapes for a wide range of tones. Its 64-step polyphonic sequencer allows you to program intricate melodic patterns and basslines. Dual digital effects, including a phase shifter and ring modulator, can transform your sounds into something entirely new. With its semi-weighted 49-key keyboard with aftertouch, the OB-6 is also ideal for expressive playing. Two oscillators per voice generate triangle, sawtooth and pulse waves with variable width for rich, complex sounds. The mixer section gives you control over levels, panning and detune per voice for massive, detuned pads and leads.",
+            "price": "$3,499.99",
+            "photo": "../../Img/ProductImg/46.webp"
+        },
+        {
+            "name": "Roland SYSTEM-8 Plug-Out Synthesizer",
+            "description": "The SYSTEM-8 delivers a vast palette of sounds inspired by over four decades of legendary Roland synths. Its next-gen Analog Circuit Behavior (ACB) engine powers an eight-voice, three-oscillator monster with stunning filters and effects, highly versatile LFOs, and a massive array of high-resolution knobs and sliders to control it all.  Support for three PLUG-OUT synths means the SYSTEM-8 can host recreations of numerous Roland classics, with JUNO-106 and JUPITER-8 included at purchase. Split and layer synths for unheard of sounds, and tap into the integrated vocoder, arpeggiator, CV/Gate outs, and advanced polyphonic step sequencer to fuel endless creative explorations.",
+            "price": "$1,749.99",
+            "photo": "../../Img/ProductImg/47.webp"
+        },
+        {
+            "name": "Sequential Pro 3 Multi-Filter Mono Synthesizer - Special Edition",
+            "description": "The Sequential Pro 3 boasts three oscillators, three vintage filters, three LFOs, four loopable envelopes, a massive 32-slot mod matrix, and an 16 x 16 x 4 sequencer. Throw in dual digital effects and four control voltage ins and outs, and you’ve got a hugely powerful instrument that’s as exciting to program as it is to play.",
+            "price": "$2,749.99",
+            "photo": "../../Img/ProductImg/48.webp"
+        },
+        {
+            "name": "Oberheim OB-6 6-Voice Analog Synthesizer",
+            "description": "The OB-6 is an analog synthesizer that offers seemingly endless possibilities for creative sound design. Designed by Dave Smith and Tom Oberheim, two pioneers of analog synthesis, the OB-6 provides six discrete analog voices, each with two oscillators and a variety of waveshapes for a wide range of tones. Its 64-step polyphonic sequencer allows you to program intricate melodic patterns and basslines. Dual digital effects, including a phase shifter and ring modulator, can transform your sounds into something entirely new. With its semi-weighted 49-key keyboard with aftertouch, the OB-6 is also ideal for expressive playing. Two oscillators per voice generate triangle, sawtooth and pulse waves with variable width for rich, complex sounds. The mixer section gives you control over levels, panning and detune per voice for massive, detuned pads and leads.",
+            "price": "$3,499.99",
+            "photo": "../../Img/ProductImg/49.webp"
+        },
+        {
+            "name": "Modal Electronics Limited Cobalt8X 61-Key 8-Voice Extended Virtual Analog Synthesizer",
+            "description": "Building on the tradition of warm and punchy analog-style synth sounds, conceived by legendary synthesizers from the past, COBALT8X unlocks the full creative potential of analog waveforms. This powerful, inspiring instrument reinvents the aesthetics of analog sounds and invites musicians, producers and sound designers to explore a new era of virtual-analog synthesizer textures, far beyond the limits of its analog forefathers.",
+            "price": "$869.00",
+            "photo": "../../Img/ProductImg/50.webp"
+        },
+        {
+            "name": "Sequential Prophet-5 5-Voice Polyphonic Analog Synthesizer",
+            "description": "The world's first fully programmable polyphonic synthesizer returns with this rerelease of the Prophet-5. The Prophet-5 Rev4 is Dave Smith's faithful recreation of the iconic analog poly synth. The result is a pure renewal of an analog classic. The Prophet-5 synth has the authentic, muscular sound of the original, with the roadworthiness of a state-of-the-art modern instrument.",
+            "price": "$3,599.00",
+            "photo": "../../Img/ProductImg/51.webp"
+        }
+    ],
+    "Drums": [
+        {
+            "name": "Roland TD-27KV2 V-Drums Kit",
+            "description": "Roland's flagship TD-27KV2 V-Drums kit brings world-class drumming technology to your fingertips. Packed with 75 studio-quality drum kits, the TD-27 sound module provides a sonic playground for unleashing your creativity. At the heart of this innovative set are Roland's renowned CY-18DR ride, KD-10 kick, PD-140DS snare and three PDX-100 toms—time-tested components found in previous Roland pro kits and beloved by drummers worldwide. It also features the CY-12C-T, CY-14C-T and VH-14D crash/hi-hat cymbals, which have been reengineered for unparalleled dynamic expression. An MDS-STD2 stand delivers road-ready stability for intense practice or performance. When you need a professional electronic drum set, the TD-27KV2 is the definition of excellence.",
+            "price": "$3,199.99",
+            "photo": "../../Img/ProductImg/52.jpg"
+        },
+        {
+            "name": "Zildjian ALCHEM-E Gold EX Electronic Drum Kit",
+            "description": "The flagship Zildjian ALCHEM-E Gold EX electronic drum kit represents a new frontier in e-drumming from the world’s oldest cymbal makers. This groundbreaking e-kit seamlessly blends authentic acoustic feel with limitless electronic versatility, providing an experience as immersive as it is inspiring. Whether you’re an aspiring drummer looking to elevate your skills or a seasoned pro seeking uncompromising authenticity, the Gold EX has you covered.",
+            "price": "$6,999.99",
+            "photo": "../../Img/ProductImg/53.webp"
+        },
+        {
+            "name": "Alesis Strata Prime Electronic Drum Kit",
+            "description": "The Strata Prime electronic drum kit from Alesis features an acoustic-like drumming experience with the versatility of a vast library of electronic sounds via the state-of-the-art Prime module. It’s equipped with full-size drum and cymbal pads for a familiar feel, plus the renowned BFD3 sound engine, boasting 75 professionally crafted kits. Edit any parameter on the massive 10.1' touchscreen and shape your sound from a vast selection of kits, sounds and tone-tweaking options. It includes mounting hardware for the module, snare, tom and cymbals—just add a hi-hat stand and kick pedal to get grooving.",
+            "price": "$3,499.00",
+            "photo": "../../Img/ProductImg/54.webp"
+        },
+        {
+            "name": "Yamaha Stage Custom Birch 5-Piece Shell Pack With 22' Bass Drum Honey Amber",
+            "description": "This Yamaha Stage Custom birch drum shell pack is also great for the beginner or the working professional. The staggered diagonal seam allowed Yamaha to build a thin drum shell that will start round and stay round. The low-mass lugs lets the shell vibrate for superb tone and sustain. Yamaha's Air Seal System used for drum shell construction ensures each and every Yamaha drum shell is of uniform thickness and is perfectly round to achieve superior tone quality and durability.",
+            "price": "$719.99",
+            "photo": "../../Img/ProductImg/55.webp"
+        },
+        {
+            "name": "Rogue RGD0520 5-Piece Complete Drum Set Dark Red",
+            "description": "This five-piece beauty is all-inclusive, featuring 10' and 12' rack toms, 14' floor tom, matching 13' snare drum and 20' bass drum. It includes durable hardware; hi-hat stand with pedal, an adjustable, double-braced, stand-alone boom cymbal stand, reliable snare drum stand, well-built chain-driven bass drum pedal and drum throne. Rogue even contributed drum sticks, a drum key and an easy-reading instruction manual. This is truly a one-stop-purchase encompassing everything you need to play. All you need are cymbals, and you are off to the drumming races.",
+            "price": "$319.99",
+            "photo": "../../Img/ProductImg/56.webp"
+        },
+        {
+            "name": "Roland TD-17KV2 V-Drums Kit",
+            "description": "Get grooving with the second-generation Roland TD-17KV2 e-kit, including a compact, 4-post rack and the TD-17 module loaded with an entire library of high-quality sounds, samples and artists kits. Featuring 70 premium-quality kits—including 20 new preset kits and a revamped sound engine—the module also allows you to upload your own samples as WAV files via an SD/HD card for virtually endless percussive styles and personalization options. From metal blast beats to chill vaporwave grooves, the TD-17 module contains everything needed to easily handle any genre. The kit comes with enhanced mesh drum pads for an authentic drumming experience, along with slim, thin-profile CY-12C-T and CY-14R-T cymbals for an improved stick feel over the previous generation.",
+            "price": "$1,299.99",
+            "photo": "../../Img/ProductImg/57.webp"
+        },
+        {
+            "name": "Simmons Titan 70 Electronic Drum Kit With Mesh Pads and Bluetooth",
+            "description": "The Simmons Titan 70 represents a vast evolution of the Titan series electronic drum kits. Building on the immense successes of the intermediate Titan 50 and entry-level Titan 20 e-kits, the Titan 70 is a no-compromise percussion factory for serious creators who demand exceptional sound quality, near-effortless playability, comprehensive editing and trouble-free integration with DAWs and drum-sample software.",
+            "price": "$799.99",
+            "photo": "../../Img/ProductImg/58.webp"
+        },
+        {
+            "name": "Ludwig BackBeat Complete 5-Piece Drum Set With Hardware and Cymbals Wine Red Sparkle",
+            "description": "The Ludwig BackBeat Complete 5-piece drum set with hardware and cymbals provides drummers with a robust yet affordable option for crafting rhythms in any musical genre. This full-featured set includes 7-ply hardwood shells in a popular 22' bass drum, 10' and 12' rack toms, a 16' floor tom and a 14' snare drum configuration. Paired with a double-braced hi-hat and crash/ride cymbal, and all necessary hardware, the BackBeat set allows drummers of any skill level to explore a spectrum of tones.",
+            "price": "$499.00",
+            "photo": "../../Img/ProductImg/59.webp"
+        },
+        {
+            "name": "TAMA Imperialstar 5-Piece Complete Drum Set With 18' Bass Drum and MEINL HCS Cymbals Hairline Black",
+            "description": "TAMA’s Imperialstar drum series is known as an industry standard for beginning drummers who want a high-quality drum set experience at an excellent value. TAMA’s philosophy is that the beginning/aspiring drummer realizes maximum enjoyment and personal fulfillment on a fully functional, highly durable and quality sounding acoustic drum set/cymbal package. This is the foundation for TAMA, and they designed Imperialstar to be a proven value that is uncommon in the world of today’s 'entry-level' drum set category.",
+            "price": "$849.99",
+            "photo": "../../Img/ProductImg/60.jpg"
+        },
+        {
+            "name": "Rogue Junior Kicker 5-Piece Drum Set Metallic Blue",
+            "description": "Rogue Drums and Percussion left no musician behind, because its Junior Kicker 5-piece drum set was custom-made for the world’s young drummers. This drum set has a compact frame to appease smaller rockers but maintains Rogue’s great playability and sound that its customers have grown accustomed to. This is a one-stop-shop drum set and has everything you need to start playing right away. This package has everything you need to complete your setup, so you don’t have to waste any time shopping for every essential accessory, which can be tedious and overwhelming. Rogue carefully selected the best accessorizing gear that will truly enhance this cool, well-grounded mini drum set.",
+            "price": "$299.99",
+            "photo": "../../Img/ProductImg/61.webp"
+        }
+             
+    ]
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

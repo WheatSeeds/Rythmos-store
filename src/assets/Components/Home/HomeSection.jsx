@@ -22,7 +22,6 @@ const SectionData = [
 
 
 const Section = () => {
-    console.log(SectionData)
     return (
         <div className='content-block'>
         {SectionData.map((SectionData) => (
