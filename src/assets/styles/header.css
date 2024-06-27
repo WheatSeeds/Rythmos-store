@@ -28,3 +28,8 @@ li > a{
     text-decoration: green wavy underline;
     font-size: 5vh;
 }
+
+#logo > a{
+    text-decoration: none;
+    color: white
+}

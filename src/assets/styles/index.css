@@ -8,3 +8,21 @@ body{
     font-style: normal;
 
 }
+
+.product-card > img{
+    width: 250px;
+}
+.product-card > p{
+    color: black;
+    width: 250px;
+}
+.product-card{
+    border: 1px solid black;
+}
+.product-list{
+    margin-top: 15vh;
+    display: grid;
+    grid-template-columns: repeat(5, 250px);
+    grid-template-rows: repeat(2, 400px);
+    text-align: center;
+}
