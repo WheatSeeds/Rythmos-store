@@ -10,19 +10,31 @@ body{
 }
 
 .product-card > img{
-    width: 250px;
+    width: 220px;
 }
 .product-card > p{
-    color: black;
+    color: white;
+    background-color: black;
     width: 250px;
+    padding-bottom: max-content;
 }
 .product-card{
     border: 1px solid black;
+    background-color: white;
 }
+
 .product-list{
     margin-top: 15vh;
     display: grid;
     grid-template-columns: repeat(5, 250px);
-    grid-template-rows: repeat(2, 400px);
+    grid-template-rows: repeat(2, 350px);
     text-align: center;
+    gap: 20px;
+    row-gap: 20px;
+}
+main{
+    background-image: url('./../../../public/bruno-guerrero-iZnHqKPfF7A-unsplash.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
 }

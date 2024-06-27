@@ -4,6 +4,7 @@ import Section from './HomeSection.jsx'
 import '../../styles/index.css'
 import '../../styles/homePageContent.css'
 import {HomePageContentData} from './HomePageContentData.js'
+import { Link } from "react-router-dom";
 
 function HomePage() {
     return(
@@ -13,7 +14,7 @@ function HomePage() {
                 <div id="content">
                     <h1>{HomePageContentData.Title}</h1>
                     <div>{HomePageContentData.Content}</div>
-                    <button>Store</button>
+                    <button><Link to='store'>Store</Link></button>
                 </div>
                 <Section />
             </main>

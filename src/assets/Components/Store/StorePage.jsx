@@ -8,6 +8,7 @@ function StorePage(){
         <>
             <Header />
             <main>
+                <input type='text'></input>
                 <ProductList />
             </main>
             <Footer />

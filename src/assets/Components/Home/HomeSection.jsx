@@ -25,7 +25,7 @@ const Section = () => {
     return (
         <div className='content-block'>
         {SectionData.map((SectionData) => (
-          <div className="item">
+          <div className="item" key={SectionData.Title}>
             <span>{SectionData.Title}</span>
             <img src={SectionData.Url} alt='test'></img>
           </div>
