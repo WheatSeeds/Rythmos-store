@@ -196,12 +196,6 @@
                 "description": "We've teamed up with Fender to bring you another great-sounding, unique one-off bass loaded with premium features. The exclusive Deluxe PJ Bass has a Precision Bass body with the neck of a '70s Jazz Bass. It features the appointments you've come to love about most Fender instruments like an alder body, urethane finish, maple fingerboard and a Fender high mass bass bridge. Perhaps the most interesting feature aside from the mash-up of P Bass body and J Bass neck is the combination of Precision and Jazz Bass pickups. With this combo you get the best of both worlds. The growl of the passive J Bass bridge pickup blends perfectly with the passive P Bass split single coil neck pickup with the help of the volume and tone controls.",
                 "price": "$1,049.99",
                 "photo": "/src/assets/Img/ProductImg/31.webp"
-            },
-            {
-                "name": "Sterling by Music Man StingRay Classic Ray24 Maple Fingerboard Electric Bass Butterscotch Black Pickguard",
-                "description": "The Classic, Active, “SLO Special” Styled StingRay Bass. This StingRay Classic pays tribute to the “SLO Special“ Music Man StingRay bass. With its comfortably narrower 38mm nut and 9V powered Active 2-band preamp, this StingRay Classic brings an iconic look, sound and feel in all finishes.",
-                "price": "$549.99",
-                "photo": "/src/assets/Img/ProductImg/32.webp"
             }
         ]
     },
@@ -283,12 +277,6 @@
             "description": "The Sequential Prophet Rev2 is an innovative analog synthesizer that takes polyphony and sonic capabilities to new heights. Available in 8-voice and 16-voice versions, the Rev2 builds on the legacy of the legendary Prophet '08 with twice the voice count, an enhanced modulation matrix and waveshape modulation on all waveforms. Whether performing live or crafting sounds in the studio, the Rev2 provides musicians and producers alike with an intuitive yet immensely capable creative tool.",
             "price": "$2,999.99",
             "photo": "/src/assets/Img/ProductImg/45.webp"
-        },
-        {
-            "name": "Oberheim OB-6 6-Voice Analog Synthesizer",
-            "description": "The OB-6 is an analog synthesizer that offers seemingly endless possibilities for creative sound design. Designed by Dave Smith and Tom Oberheim, two pioneers of analog synthesis, the OB-6 provides six discrete analog voices, each with two oscillators and a variety of waveshapes for a wide range of tones. Its 64-step polyphonic sequencer allows you to program intricate melodic patterns and basslines. Dual digital effects, including a phase shifter and ring modulator, can transform your sounds into something entirely new. With its semi-weighted 49-key keyboard with aftertouch, the OB-6 is also ideal for expressive playing. Two oscillators per voice generate triangle, sawtooth and pulse waves with variable width for rich, complex sounds. The mixer section gives you control over levels, panning and detune per voice for massive, detuned pads and leads.",
-            "price": "$3,499.99",
-            "photo": "/src/assets/Img/ProductImg/46.webp"
         },
         {
             "name": "Roland SYSTEM-8 Plug-Out Synthesizer",

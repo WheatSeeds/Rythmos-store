@@ -38,3 +38,6 @@ main{
     background-position: center center;
     background-repeat: no-repeat;
 }
+.category-select{
+    margin-top: 10vh;
+}
