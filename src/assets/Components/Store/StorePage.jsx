@@ -3,6 +3,7 @@ import Footer from '../Footer/Footer.jsx'
 import '../../styles/index.css'
 import ProductList from './ProductList.jsx';
 
+
 function StorePage(){
     return(
         <>

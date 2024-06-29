@@ -1,5 +1,6 @@
 import React, {useState} from 'react';
 import data from './storeData.json';
+import { useSearchParams} from "react-router-dom";
 
 const Allproducts = {
   'all-products': [...data.Guitars["Electric-Guitars"], 
@@ -18,25 +19,19 @@ const productsPerPage = 10;
 
 function ProductList(){
 
-  const [category, setCategory] = useState('all-products');
-
+  const [param, setParam] = useSearchParams();
+  
   const[currentPage, setCurrentPage] = useState(1);
 
   const [searchItem, setSearchItem] = useState('');
-  
-  const [modal, setModal] = useState(false);
-
-  const openModal = () => {
-    setModal(true);
-  }
 
   const btnPagination = (pageNumber) => {
     if (pageNumber < 1 || pageNumber > Math.ceil(products.length / productsPerPage)) return;
     setCurrentPage(pageNumber);
   };
 
-  const btnCategorySelect = (newCategory) => {
-    setCategory(newCategory.target.value);
+  const btnCategorySelect = (e) => {
+    setParam(`?category=${e.target.value}`);
     setCurrentPage(1); 
   };
 
@@ -45,7 +40,9 @@ function ProductList(){
     setCurrentPage(1);
   };
 
-  const products = Allproducts[category].filter(product =>
+
+
+  const products = Allproducts[param.get('category')].filter(product =>
     product.name.toLowerCase().includes(searchItem.toLowerCase())
   );
 
@@ -87,6 +84,7 @@ function ProductList(){
           onClick={() => btnPagination(currentPage + 1)}>{">"}
         </button>
       </div>
+
     </>
   );
 };

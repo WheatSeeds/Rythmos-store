@@ -7,7 +7,7 @@ function Header() {
                 <div id='logo'><Link to='/'>Rithmos</Link></div>
                 <ul>
                     <li><Link to='/'>Home</Link></li>
-                    <li><Link to='store'>Store</Link></li>
+                    <li><Link to='/store?category=all-products'>Store</Link></li>
                 </ul>
             </nav>
         </header>

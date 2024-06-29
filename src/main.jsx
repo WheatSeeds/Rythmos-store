@@ -10,7 +10,7 @@ const router = createBrowserRouter([
     element: <HomePage />
   },
   {
-    path: "store",
+    path: "/store/:category?",
     element: <StorePage />
   }
 ]);
