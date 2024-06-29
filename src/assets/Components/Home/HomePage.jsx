@@ -14,9 +14,9 @@ function HomePage() {
                 <div id="content">
                     <h1>{HomePageContentData.Title}</h1>
                     <div>{HomePageContentData.Content}</div>
-                    <button><Link to='store'>Store</Link></button>
+                    <Link to='store'><button>Store</button></Link>
                 </div>
-                <Section />
+                <Section/>
             </main>
             <Footer />
         </>

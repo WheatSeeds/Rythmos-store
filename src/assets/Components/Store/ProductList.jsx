@@ -2,25 +2,33 @@ import React, {useState} from 'react';
 import data from './storeData.json';
 
 const Allproducts = {
-  all: [...data.Guitars["Electric-Guitars"], 
+  'all-products': [...data.Guitars["Electric-Guitars"], 
         ...data.Guitars["Acoustic-Guitars"], 
         ...data.Guitars["Bass-Guitars"], 
         ...data.Drums, 
         ...data.Synthesizers],
-  electric: data.Guitars["Electric-Guitars"],
-  acoustic: data.Guitars["Acoustic-Guitars"],
-  bass: data.Guitars["Bass-Guitars"],
-  drums: data.Drums,
-  synths: data.Synthesizers
+  'electric-guitars': data.Guitars["Electric-Guitars"],
+  'acoustic-guitars': data.Guitars["Acoustic-Guitars"],
+  'bass-guitars': data.Guitars["Bass-Guitars"],
+  'drums': data.Drums,
+  'synthesizers': data.Synthesizers
 };
+
+const productsPerPage = 10;
 
 function ProductList(){
 
-  const [category, setCategory] = useState('all');
-  const products = Allproducts[category];
+  const [category, setCategory] = useState('all-products');
 
   const[currentPage, setCurrentPage] = useState(1);
-  const productsPerPage = 10;
+
+  const [searchItem, setSearchItem] = useState('');
+  
+  const [modal, setModal] = useState(false);
+
+  const openModal = () => {
+    setModal(true);
+  }
 
   const btnPagination = (pageNumber) => {
     if (pageNumber < 1 || pageNumber > Math.ceil(products.length / productsPerPage)) return;
@@ -32,24 +40,41 @@ function ProductList(){
     setCurrentPage(1); 
   };
 
+  const Search = (search) => {
+    setSearchItem(search.target.value);
+    setCurrentPage(1);
+  };
+
+  const products = Allproducts[category].filter(product =>
+    product.name.toLowerCase().includes(searchItem.toLowerCase())
+  );
+
   return (
     <>
+      <div id='menu'>
+        <div className="search-bar">
+          <input
+            type="text"
+            placeholder="Search"
+            onChange={Search}
+          />
+        </div>
+        
+        <select className="category-select" onChange={btnCategorySelect}>
+          <option value='all-products'>All</option>
+          <option value='electric-guitars'>Electric Guitars</option>
+          <option value='acoustic-guitars'>Acoustic Guitars</option>
+          <option value='bass-guitars'>Bass Guitars</option>
+          <option value='drums'>Drums</option>
+          <option value='synthesizers'>Synthesizers</option>
+        </select>
 
-
-      <select className="category-select" onChange={btnCategorySelect}>
-        <option value='all'>All</option>
-        <option value='electric'>Electric Guitars</option>
-        <option value='acoustic'>Acoustic Guitars</option>
-        <option value='bass'>Bass Guitars</option>
-        <option value='drums'>Drums</option>
-        <option value='synths'>Synthesizers</option>
-      </select>
-
+      </div>
       <div className="product-list">
         {products.slice((currentPage - 1) * productsPerPage, currentPage * productsPerPage).map((product) => (
-          <div className="product-card" key={product.name}>
-            <img src={product.photo} />
-            <p>{product.name}</p>
+          <div className="product-card" key={product.name} onClick={() => openModal()}>
+              <img src={product.photo} />
+              <p>{product.name}</p>
           </div>
         ))}
       </div>
@@ -65,5 +90,4 @@ function ProductList(){
     </>
   );
 };
-
 export default ProductList;

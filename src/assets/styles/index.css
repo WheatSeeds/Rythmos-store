@@ -19,8 +19,8 @@ body{
     padding-bottom: max-content;
 }
 .product-card{
-    border: 1px solid black;
     background-color: white;
+    border-radius: 15px;
 }
 
 .product-list{
@@ -36,8 +36,10 @@ main{
     background-image: url('./../../../public/bruno-guerrero-iZnHqKPfF7A-unsplash.jpg');
     background-size: cover;
     background-position: center center;
-    background-repeat: no-repeat;
+    background-repeat: no-repeat;   
 }
-.category-select{
+
+#menu{
     margin-top: 10vh;
+    display: flex;
 }

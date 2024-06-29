@@ -7,16 +7,18 @@ const SectionData = [
     {
         Title: 'GUITARS',
         Url: bgGuitar,
+        value: 'electricGuitars'
     },
-
     {
         Title: 'SYNTHESIZERS',
         Url: bgSynthesizer,
+        value: 'synthesizers'
     },
 
     {
         Title: 'DRUMS',
         Url: bgDrums,
+        value: 'drums'
     },
 ];
 
@@ -25,10 +27,10 @@ const Section = () => {
     return (
         <div className='content-block'>
         {SectionData.map((SectionData) => (
-          <div className="item" key={SectionData.Title}>
-            <span>{SectionData.Title}</span>
-            <img src={SectionData.Url} alt='test'></img>
-          </div>
+            <div className="item" key={SectionData.Title}>
+                <span>{SectionData.Title}</span>
+                <img src={SectionData.Url} ></img>
+            </div>
         ))}
       </div>
     );
