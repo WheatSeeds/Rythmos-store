@@ -1,35 +1,35 @@
 header{
-    background-color: black;
-    height: 12vh;
+    height: 75px;
     width: 100%;
+    background-color: black;
     position: fixed;
     top: 0;
     z-index: 9999;
 }
 nav{
+    height: 75px;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    height: 12vh;
 }
 ul{
-    color: white;
     display: flex;
-    gap: 5vw;
+    color: white;
+    gap: 40px;
     list-style-type: none;
 }
 li > a{
-    font-size: 3vh;
-    text-decoration: none;
     color: white;
+    font-size: 20px;
+    text-decoration: none;
 }
 
 #logo{
+    font-size: 30px;
     text-decoration: green wavy underline;
-    font-size: 5vh;
 }
 
 #logo > a{
+    color: white;
     text-decoration: none;
-    color: white
 }

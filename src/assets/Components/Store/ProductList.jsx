@@ -59,7 +59,7 @@ function ProductList(){
             onChange={Search}
           />
         </div>
-        
+
         <select className="category-select" onChange={btnCategorySelect}>
           <option value='all-products'>All</option>
           <option value='electric-guitars'>Electric Guitars</option>
@@ -68,8 +68,8 @@ function ProductList(){
           <option value='drums'>Drums</option>
           <option value='synthesizers'>Synthesizers</option>
         </select>
-
       </div>
+      
       <div className="product-list">
         {products.slice((currentPage - 1) * productsPerPage, currentPage * productsPerPage).map((product) => (
           <div className="product-card" key={product.name} onClick={() => {

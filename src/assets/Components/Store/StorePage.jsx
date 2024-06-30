@@ -1,6 +1,5 @@
 import Header from '../Header/Header.jsx'
 import Footer from '../Footer/Footer.jsx'
-import '../../styles/index.css'
 import ProductList from './ProductList.jsx';
 
 
@@ -9,8 +8,9 @@ function StorePage(){
         <>
             <Header />
             <main>
-                <input type='text'></input>
-                <ProductList />
+                <div id='store-content'>
+                    <ProductList />
+                </div>
             </main>
             <Footer />
         </>
