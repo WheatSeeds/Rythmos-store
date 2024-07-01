@@ -100,7 +100,7 @@
                 "photo": "/src/assets/Img/ProductImg/15.jpg"
             },
             {
-                "name": "Taylor 814ce Builder's Edition 50th Anniversary Limited-Edition Grand Auditorium Acoustic-Electric Guitar Kona Edgeburst",
+                "name": "Taylor 814ce Builder's Edition Grand Auditorium Acoustic-Electric Guitar Kona Edgeburst",
                 "description": "The Taylor 814ce Builder's Edition 50th Anniversary limited-edition Grand Auditorium acoustic guitar combines two phenomenal tonewoods—Indian rosewood and sinker redwood—to deliver a kaleidoscopic range of tones. This special 50th anniversary model pairs the warm, rich lows of Indian rosewood with the cedar-like warmth and excellent projection of sinker redwood. Together, they produce remarkable tonal complexity that's enhanced by Taylor's advanced V-Class bracing. Visually striking touches like the abalone rosette, gold tuners and Kona burst edge over rosewood celebrate Taylor's five decades of guitar innovation.",
                 "price": "$4,999.00",
                 "photo": "/src/assets/Img/ProductImg/16.webp"
@@ -130,13 +130,13 @@
                 "photo": "/src/assets/Img/ProductImg/20.webp"
             },
             {
-                "name": "Fender American Acoustasonic Jazzmaster Acoustic-Electric Guitar Arctic White",
+                "name": "Fender American Acoustasonic Jazzmaster Acoustic Guitar Arctic White",
                 "description": "The Fender American Acoustasonic Jazzmaster acoustic-electric guitar represents the cutting edge of purposeful innovation. Powered by Fender and Fishman's groundbreaking Acoustic Engine, this versatile instrument opens the door to discovering a universe of acoustic and electric tones. The offset spruce and mahogany SIRS body resonates like an acoustic while avoiding feedback and the slim, fast-playing neck provides effortless electric-style playability across the 22-fret ebony fingerboard. The American Acoustasonic Jazzmaster is for the guitarist seeking inspiration through uncharted sonic territory.",
                 "price": "$1,999.99",
                 "photo": "/src/assets/Img/ProductImg/21.webp"
             },
             {
-                "name": "Fender American Acoustasonic Stratocaster Acoustic-Electric Guitar Trans Sonic Blue",
+                "name": "Fender American Acoustasonic Stratocaster Acoustic Guitar Blue",
                 "description": "The Fender American Acoustasonic Stratocaster fuses Fender's comfortable solid spruce and mahogany SIRS Strat body with a cutting-edge pickup system for a kaleidoscope of tones. A real Fender N4 Noiseless single-coil is paired with a Fishman Matrix undersaddle pickup and percussive top sensor to shift between six distinct acoustic voices and sizzling electric leads with the flick of a switch. A rechargeable 20-hour battery supports continuous play so you can craft tone poems for hours on end. Whether you're conjuring country ballads or conjuring rock anthems, the American Acoustasonic Stratocaster is purpose-built to inspire.",
                 "price": "$1,999.99",
                 "photo": "/src/assets/Img/ProductImg/22.webp"
@@ -150,7 +150,7 @@
         ],
         "Bass-Guitars":[
             {
-                "name": "Jackson Adam Blackstone 'Gladys' Pro Series Signature Concert Bass Guitar Black Stone",
+                "name": "Jackson Adam Blackstone 'Gladys' Pro Series Bass Guitar Black Stone",
                 "description": "The Jackson Adam Blackstone 'Gladys' Pro Series signature concert bass brings the expertise of Grammy-winning musical director Adam Blackstone to your fingertips. Developed with Jackson, this five-string electric bass has a custom design optimized for the needs of today's performing and recording bassists. The resonant poplar body and graphite-reinforced bolt-on maple neck generate formidable sustain. The custom neck profile and compound 9'–16' radius maple fingerboard offer incredible comfort and playability.",
                 "price": "$899.99",
                 "photo": "/src/assets/Img/ProductImg/24.webp"
@@ -297,7 +297,7 @@
             "photo": "/src/assets/Img/ProductImg/49.webp"
         },
         {
-            "name": "Modal Electronics Limited Cobalt8X 61-Key 8-Voice Extended Virtual Analog Synthesizer",
+            "name": "Modal Electronics Limited Cobalt8X 61-Key 8-Voice Extended Virtual Synthesizer",
             "description": "Building on the tradition of warm and punchy analog-style synth sounds, conceived by legendary synthesizers from the past, COBALT8X unlocks the full creative potential of analog waveforms. This powerful, inspiring instrument reinvents the aesthetics of analog sounds and invites musicians, producers and sound designers to explore a new era of virtual-analog synthesizer textures, far beyond the limits of its analog forefathers.",
             "price": "$869.00",
             "photo": "/src/assets/Img/ProductImg/50.webp"
@@ -353,13 +353,13 @@
             "photo": "/src/assets/Img/ProductImg/58.webp"
         },
         {
-            "name": "Ludwig BackBeat Complete 5-Piece Drum Set With Hardware and Cymbals Wine Red Sparkle",
+            "name": "Ludwig BackBeat Complete 5-Piece Drum Set With Hardware and Cymbals Wine Red",
             "description": "The Ludwig BackBeat Complete 5-piece drum set with hardware and cymbals provides drummers with a robust yet affordable option for crafting rhythms in any musical genre. This full-featured set includes 7-ply hardwood shells in a popular 22' bass drum, 10' and 12' rack toms, a 16' floor tom and a 14' snare drum configuration. Paired with a double-braced hi-hat and crash/ride cymbal, and all necessary hardware, the BackBeat set allows drummers of any skill level to explore a spectrum of tones.",
             "price": "$499.00",
             "photo": "/src/assets/Img/ProductImg/59.webp"
         },
         {
-            "name": "TAMA Imperialstar 5-Piece Complete Drum Set With 18' Bass Drum and MEINL HCS Cymbals Hairline Black",
+            "name": "TAMA Imperialstar 5-Piece Complete Drum Set Black",
             "description": "TAMA’s Imperialstar drum series is known as an industry standard for beginning drummers who want a high-quality drum set experience at an excellent value. TAMA’s philosophy is that the beginning/aspiring drummer realizes maximum enjoyment and personal fulfillment on a fully functional, highly durable and quality sounding acoustic drum set/cymbal package. This is the foundation for TAMA, and they designed Imperialstar to be a proven value that is uncommon in the world of today’s 'entry-level' drum set category.",
             "price": "$849.99",
             "photo": "/src/assets/Img/ProductImg/60.jpg"

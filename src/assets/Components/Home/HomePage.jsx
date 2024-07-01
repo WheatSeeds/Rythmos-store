@@ -13,7 +13,6 @@ function HomePage() {
                     <div id='content'>
                         <h1>{HomePageContentData.Title}</h1>
                         <div>{HomePageContentData.Content}</div>
-                        <Link to='/store?category=all-products'><button>Store</button></Link>
                     </div>
                 </div>
                 <Section/>

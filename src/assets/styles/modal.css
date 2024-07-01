@@ -17,8 +17,7 @@
     margin-top: 75px;
     width: 800px;
     height: 500px;
-    background-color: rgb(24, 24, 24);
-    border-radius: 15px;
+    background-color: white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -27,8 +26,54 @@
 .modal-content > img{
     height: 400px;
     width: auto;
-    border-radius: 15px;
 }
+.modal-desc{
+    height: 450px;
+    overflow: scroll;
+}
+
 .modal-desc > p{
-    color: white;
+    color: black;
+    width: 340px;
+}
+
+@media (max-width: 1200px) {
+
+}
+
+
+@media (max-width: 790px) {
+    .modal{
+        align-items: end;
+    }
+    .modal-content{
+        height: 50vh;
+        gap: 10px
+    }
+    .modal-desc{
+        height: 50vh;
+    }
+    .modal-content > img{
+        height: 50vh;
+    }
+    .modal-content > p{
+        height: 50vh;
+    }
+}
+
+@media (max-width: 530px) {
+    .modal{
+        align-items: end;
+    }
+    .modal-content{
+        height: 50vh;
+        flex-direction: column;
+        gap: 10px
+    }
+    .modal-content > img{
+        height: 0px;
+    }
+    .modal-content > p{
+        height: 50vh;
+    }
 }

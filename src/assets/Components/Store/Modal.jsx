@@ -9,8 +9,9 @@ const Modal = ({active, setActive, product}) =>{
                     <img src={product.photo} />
                     <div className='modal-desc'>
                         <p>{product.name}</p>
+                        <p>Description: </p>
                         <p>{product.description}</p>
-                        <p>{product.price}</p>
+                        <p>Price: {product.price}</p>
                     </div>
                 </div>
             </div>
