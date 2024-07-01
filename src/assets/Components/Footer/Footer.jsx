@@ -6,7 +6,7 @@ function Footer() {
             </div>
             <div className='block'>
                 <span className="block-title">Contacts</span>
-                <span>georg23kuz@gmail.com</span>
+                <a href="mailto:georg23kuz@gmail.com">georg23kuz@gmail.com</a>
             </div>
             <div className='block'>
                 <span className="block-title">Information</span>

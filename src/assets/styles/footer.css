@@ -22,12 +22,10 @@ footer{
     padding-top: 10px;
 }
 
-
-@media (max-width: 1200px) {
-
+.block > a{
+    text-decoration: none;
+    color: white;
 }
-
-
 @media (max-width: 768px) {
     footer{
         flex-direction: column;

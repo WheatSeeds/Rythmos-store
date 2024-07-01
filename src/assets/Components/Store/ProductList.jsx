@@ -70,17 +70,17 @@ function ProductList(){
         </select>
       </div>
       
-      <div className="product-list">
+      <ul className="product-list">
         {products.slice((currentPage - 1) * productsPerPage, currentPage * productsPerPage).map((product) => (
-          <div className="product-card" key={product.name} onClick={() => {
+          <li className="product-card" key={product.name} onClick={() => {
             setModalActive(true);
             setSelectedProduct(product);
           }}>
               <img src={product.photo} alt={product.name}/>
               <p>{product.name}</p>
-          </div>
+          </li>
         ))}
-      </div>
+      </ul>
 
       <div className="pagination">
         <button

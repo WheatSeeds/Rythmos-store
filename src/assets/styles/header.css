@@ -11,14 +11,16 @@ nav{
     display: flex;
     justify-content: space-around;
     align-items: center;
+    gap: 20px;
 }
-ul{
+header ul{
     display: flex;
     color: white;
     gap: 40px;
     list-style-type: none;
+    padding-inline-start:0;
 }
-li > a{
+header ul li > a{
     color: white;
     font-size: 20px;
     text-decoration: none;
@@ -32,4 +34,13 @@ li > a{
 #logo > a{
     color: white;
     text-decoration: none;
+}
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 510px) {
+    header ul{
+        gap: 20px;
+    }
 }
