@@ -76,7 +76,7 @@ function ProductList(){
             setModalActive(true);
             setSelectedProduct(product);
           }}>
-              <img src={product.photo} />
+              <img src={product.photo} alt={product.name}/>
               <p>{product.name}</p>
           </div>
         ))}

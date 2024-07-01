@@ -6,7 +6,7 @@ const Modal = ({active, setActive, product}) =>{
         <>
             <div className={active?'modal active':'modal'} onClick={() => {setActive(false)}}>
                 <div className='modal-content' onClick={e => e.stopPropagation()}>
-                    <img src={product.photo} />
+                    <img src={product.photo} alt={product.name}/>
                     <div className='modal-desc'>
                         <p>{product.name}</p>
                         <p>Description: </p>

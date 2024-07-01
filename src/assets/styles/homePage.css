@@ -1,8 +1,6 @@
 #home-content{
     margin-top: 75px;
-
     height: calc(100vh - 75px);
-
     background-image: url(../../../public/bg.jpg);
     background-size: cover;
     background-position: center center;

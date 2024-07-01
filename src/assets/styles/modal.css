@@ -30,6 +30,7 @@
 .modal-desc{
     height: 450px;
     overflow: scroll;
+    overflow-x: hidden;
 }
 
 .modal-desc > p{

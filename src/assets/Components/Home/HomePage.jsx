@@ -2,7 +2,6 @@ import Header from '../Header/Header.jsx'
 import Footer from '../Footer/Footer.jsx'
 import Section from './HomeSection.jsx'
 import {HomePageContentData} from './HomePageContentData.js'
-import { Link } from "react-router-dom";
 
 function HomePage() {
     return(

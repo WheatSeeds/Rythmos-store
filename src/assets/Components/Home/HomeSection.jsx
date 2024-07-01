@@ -2,7 +2,7 @@ import React from 'react';
 import bgGuitar from '../../Img/guitar.png';
 import bgSynthesizer from '../../Img/synth.png';
 import bgDrums from '../../Img/drums.png';
-import { Link, useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 
 const SectionData = [
@@ -32,7 +32,7 @@ const Section = () => {
                 <Link to={SectionData.path}>
                     <div className="category" key={SectionData.Title}>
                         <span>{SectionData.Title}</span>
-                        <img src={SectionData.Url} ></img>
+                        <img src={SectionData.Url} alt={SectionData.Title}></img>
                     </div>
                 </Link>
             ))}

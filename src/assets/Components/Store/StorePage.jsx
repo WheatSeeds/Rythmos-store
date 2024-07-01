@@ -8,9 +8,7 @@ function StorePage(){
         <>
             <Header />
             <main>
-                <div id='store-content'>
-                    <ProductList />
-                </div>
+                <ProductList />
             </main>
             <Footer />
         </>
