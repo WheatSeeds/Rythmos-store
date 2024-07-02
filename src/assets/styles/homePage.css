@@ -34,7 +34,7 @@
 .categories-blocks a img{
     transition-duration: 1s;
 }
-.categories-blocks a:hover img:hover{
+.categories-blocks a:hover img{
     transform: scale(1.08);
 }
 
